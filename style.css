@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
 body {
+    font-family: 'Rye', cursive;
 text-align: center;
 background: rgb(11, 112, 28) 
 }
